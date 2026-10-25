@@ -206,4 +206,3 @@ Get-WinEvent -ComputerName DC -FilterHashtable @{LogName='System'; Id=7040} |
 
 ---
 
-*Lab from Level Effect SOC100-1 (HelpDesk Analyst & Troubleshooting: "Lab – Resolving Your First Ticket"). Lab guide and screenshots from the course material; write-up by me.*
